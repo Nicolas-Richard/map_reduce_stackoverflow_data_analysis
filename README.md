@@ -82,56 +82,56 @@ This is the top 50 of most common Wikipedia pages found in StackOverflow comment
 
 Urls / Count
 
-https://en.wikipedia.org/wiki/Prepared_statement 1760
-https://en.wikipedia.org/wiki/SQL_injection 1213
-https://en.wikipedia.org/wiki/Same_origin_policy 577
-https://en.wikipedia.org/wiki/Database_normalization 444
-https://en.wikipedia.org/wiki/Undefined_behavior 399
-https://en.wikipedia.org/wiki/Byte_order_mark 304
-https://en.wikipedia.org/wiki/Singleton_pattern 260
-https://en.wikipedia.org/wiki/ISO_8601 259
-https://en.wikipedia.org/wiki/Floating_point 249
-https://en.wikipedia.org/wiki/Same-origin_policy 231
-https://en.wikipedia.org/wiki/JSONP 230
-https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller 215
-https://en.wikipedia.org/wiki/Endianness 208
-https://en.wikipedia.org/wiki/Big_O_notation 208
-https://en.wikipedia.org/wiki/Hash_table 204
-https://en.wikipedia.org/wiki/Liskov_substitution_principle 199
-https://en.wikipedia.org/wiki/Post/Redirect/Get 198
-https://en.wikipedia.org/wiki/Regular_expression 189
-https://en.wikipedia.org/wiki/Base64 186
-https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle 183
-https://en.wikipedia.org/wiki/Cross-site_scripting 178
-https://en.wikipedia.org/wiki/UTF-8 174
-https://en.wikipedia.org/wiki/Levenshtein_distance 173
-https://en.wikipedia.org/wiki/Knapsack_problem 173
-https://en.wikipedia.org/wiki/Curiously_recurring_template_pattern 173
-https://en.wikipedia.org/wiki/Cross-origin_resource_sharing 173
-https://en.wikipedia.org/wiki/Trie 172
-https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes 171
-https://en.wikipedia.org/wiki/Single_responsibility_principle 169
-https://en.wikipedia.org/wiki/Bitwise_operation 169
-https://en.wikipedia.org/wiki/Unobtrusive_JavaScript 159
-https://en.wikipedia.org/wiki/Factory_method_pattern 158
-https://en.wikipedia.org/wiki/List_of_HTTP_status_codes 154
-https://en.wikipedia.org/wiki/Data_URI_scheme 154
-https://en.wikipedia.org/wiki/Short-circuit_evaluation 153
-https://en.wikipedia.org/wiki/Newline 153
-https://en.wikipedia.org/wiki/Don't_repeat_yourself 150
-https://en.wikipedia.org/wiki/Sorting_algorithm 144
-https://en.wikipedia.org/wiki/JSON 142
-https://en.wikipedia.org/wiki/Comma-separated_values 139
-https://en.wikipedia.org/wiki/C%2B%2B11 135
-https://en.wikipedia.org/wiki/Resource_Acquisition_Is_Initialization 133
-https://en.wikipedia.org/wiki/Modulo_operation 133
-https://en.wikipedia.org/wiki/Most_vexing_parse 131
-https://en.wikipedia.org/wiki/Dependency_injection 127
-https://en.wikipedia.org/wiki/ASCII 124
-https://en.wikipedia.org/wiki/First_normal_form 123
-https://en.wikipedia.org/wiki/Return_value_optimization 121
-https://en.wikipedia.org/wiki/Observer_pattern 121
-https://en.wikipedia.org/wiki/Unix_time 120
+1. https://en.wikipedia.org/wiki/Prepared_statement 1760
+2. https://en.wikipedia.org/wiki/SQL_injection 1213
+3. https://en.wikipedia.org/wiki/Same_origin_policy 577
+4. https://en.wikipedia.org/wiki/Database_normalization 444
+5. https://en.wikipedia.org/wiki/Undefined_behavior 399
+6. https://en.wikipedia.org/wiki/Byte_order_mark 304
+7. https://en.wikipedia.org/wiki/Singleton_pattern 260
+8. https://en.wikipedia.org/wiki/ISO_8601 259
+9. https://en.wikipedia.org/wiki/Floating_point 249
+10. https://en.wikipedia.org/wiki/Same-origin_policy 231
+11. https://en.wikipedia.org/wiki/JSONP 230
+12. https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller 215
+13. https://en.wikipedia.org/wiki/Endianness 208
+14. https://en.wikipedia.org/wiki/Big_O_notation 208
+15. https://en.wikipedia.org/wiki/Hash_table 204
+16. https://en.wikipedia.org/wiki/Liskov_substitution_principle 199
+17. https://en.wikipedia.org/wiki/Post/Redirect/Get 198
+18. https://en.wikipedia.org/wiki/Regular_expression 189
+19. https://en.wikipedia.org/wiki/Base64 186
+20. https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle 183
+21. https://en.wikipedia.org/wiki/Cross-site_scripting 178
+22. https://en.wikipedia.org/wiki/UTF-8 174
+23. https://en.wikipedia.org/wiki/Levenshtein_distance 173
+24. https://en.wikipedia.org/wiki/Knapsack_problem 173
+25. https://en.wikipedia.org/wiki/Curiously_recurring_template_pattern 173
+26. https://en.wikipedia.org/wiki/Cross-origin_resource_sharing 173
+27. https://en.wikipedia.org/wiki/Trie 172
+28. https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes 171
+29. https://en.wikipedia.org/wiki/Single_responsibility_principle 169
+30. https://en.wikipedia.org/wiki/Bitwise_operation 169
+31. https://en.wikipedia.org/wiki/Unobtrusive_JavaScript 159
+32. https://en.wikipedia.org/wiki/Factory_method_pattern 158
+33. https://en.wikipedia.org/wiki/List_of_HTTP_status_codes 154
+34. https://en.wikipedia.org/wiki/Data_URI_scheme 154
+35. https://en.wikipedia.org/wiki/Short-circuit_evaluation 153
+36. https://en.wikipedia.org/wiki/Newline 153
+37. https://en.wikipedia.org/wiki/Don't_repeat_yourself 150
+38. https://en.wikipedia.org/wiki/Sorting_algorithm 144
+39. https://en.wikipedia.org/wiki/JSON 142
+40. https://en.wikipedia.org/wiki/Comma-separated_values 139
+41. https://en.wikipedia.org/wiki/C%2B%2B11 135
+42. https://en.wikipedia.org/wiki/Resource_Acquisition_Is_Initialization 133
+43. https://en.wikipedia.org/wiki/Modulo_operation 133
+44. https://en.wikipedia.org/wiki/Most_vexing_parse 131
+45. https://en.wikipedia.org/wiki/Dependency_injection 127
+46. https://en.wikipedia.org/wiki/ASCII 124
+47. https://en.wikipedia.org/wiki/First_normal_form 123
+48. https://en.wikipedia.org/wiki/Return_value_optimization 121
+49. https://en.wikipedia.org/wiki/Observer_pattern 121
+50. https://en.wikipedia.org/wiki/Unix_time 120
 
 Inspired by "MapReduce Design Patterns" by Donald Miner, Adam Shook http://shop.oreilly.com/product/0636920025122.do
 
