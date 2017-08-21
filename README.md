@@ -22,7 +22,7 @@ https://en.wikipedia.org/wiki/SQL_injection).
 
 Note: In some cases a parenthesi at the end of a URL is legit and should not be removed...
 
-#2. Check that the URLs are reachable
+# 2. Check that the URLs are reachable
 
 Before emitting a URL to the reducer I need to make sure it's a good one.
 
@@ -32,7 +32,7 @@ This is slow... And of course turns out to be very inefficient as it means I con
 
 I was able to run the job this way for a subset of the dataset (first 10k records). The result is a list of validated URLs that we will be re-using later.
 
-#3. rule of thumb to recover dirty URLs
+# 3. rule of thumb to recover dirty URLs
 
  As I run the job this way I realized I was getting a lot of 404 responses due to the poorly shaped URLs with punctuation marks at the end. More than half of the links were discarded for that reason.
 
@@ -44,7 +44,7 @@ I decided that for every candidate URL I will be testing :
 
 Now I was catching most URLs but processing got very very slow.
 
-#4. Distributed Cache
+# 4. Distributed Cache
 
 To avoid this the Distributed Cache feature of Map Reduce is on point.
 
@@ -57,7 +57,7 @@ If it's not, try to connect to it.
 My first cache file was created from processing the 10k records, then I created one from 1 million records, then one from 20 million records (about 30% of the data), and from that I was able to analyze the entire dataset in a few hours on my laptop.
 
 
-#5. Gather some stats
+# 5. Gather some stats
 
 Using the Map Reduce context counters it's very easy to count what is going on at every step.
 
@@ -76,7 +76,7 @@ cache hit ratio : 83%
 
 Urls found that could not be understood / resolved : 1811 / 2%
 
-#6. The results
+# 6. The results
 
 This is the top 50 of most common Wikipedia pages found in StackOverflow comments.
 
